@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YelowsoftCircuit</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAp06fIsyzm4yqKKB8Kh0RZV-oZesD30OQ</string>
+</resources>

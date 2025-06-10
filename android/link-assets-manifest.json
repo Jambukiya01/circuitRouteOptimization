@@ -1,0 +1,77 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EuclidCircular_Bold.ttf",
+      "sha1": "0a69a0d9a4d2f9477582e7f01d84bc1d61c4d01c"
+    },
+    {
+      "path": "assets/fonts/EuclidCircular_Light.ttf",
+      "sha1": "eb1ac25ae5af273c16753fdf76b5a2919f4aac25"
+    },
+    {
+      "path": "assets/fonts/EuclidCircular_Medium.ttf",
+      "sha1": "e97e414467f782f08b7227a89db002829ebb4a52"
+    },
+    {
+      "path": "assets/fonts/EuclidCircular_Regular.ttf",
+      "sha1": "d1ad5380051d486ba359d1a38bb8feb3f2a26fe5"
+    },
+    {
+      "path": "assets/fonts/EuclidCircular_SemiBold.ttf",
+      "sha1": "e89ec5f5d0749a91981e5544c67bb73d8e135445"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Black.ttf",
+      "sha1": "d2e84609a5b0ac7a25775e6ea2aa376b015b6bf7"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Bold.ttf",
+      "sha1": "115530e4e31af6a964dda49b2127577c2f30b89d"
+    },
+    {
+      "path": "assets/fonts/Tajawal-ExtraBold.ttf",
+      "sha1": "9effbeb06df60898f6239854e8dffbc98cddb827"
+    },
+    {
+      "path": "assets/fonts/Tajawal-ExtraLight.ttf",
+      "sha1": "f4b3dfc825ce2295e33a156f69dbe7575c049836"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Light.ttf",
+      "sha1": "08296f9d294cabfb078bfc1cb3d6692ad06da968"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Medium.ttf",
+      "sha1": "827b2c9a799e345dd5ce5274c6317e7006b41a16"
+    },
+    {
+      "path": "assets/fonts/Tajawal-Regular.ttf",
+      "sha1": "26404aa57f2ba547a8dcd952012c6ef8f8a57104"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text.ttf",
+      "sha1": "6f8b9d118e5e053ba77690922f793a5fa87667d2"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text_bold.ttf",
+      "sha1": "c17932b76d3ac728975460b31ec18d9fe3946b60"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text_heavy.ttf",
+      "sha1": "bad788b78e02b3e7c4f9c51fbcaa4282116fcb6b"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text_light.ttf",
+      "sha1": "cdbc966cb8a29220888f01e47b6f4703d9aa9b67"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text_medium.ttf",
+      "sha1": "30e5e53a37ea96a9155832da9511b21000ba3c35"
+    },
+    {
+      "path": "assets/fonts/sf_pro_text_semibold.ttf",
+      "sha1": "0d2dd37f1f77396736539c92d14adad23720a355"
+    }
+  ]
+}
