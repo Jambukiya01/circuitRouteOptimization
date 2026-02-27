@@ -100,10 +100,10 @@ android {
             keyPassword 'android'
         }
         release {
-        storeFile file("yelowsoftcircuit.keystore")
-        storePassword "yelowsoftCircuit123"
-        keyAlias "yelowsoftCircuit"
-        keyPassword "yelowsoftCircuit123"
+        storeFile file("circuitRouteOptimization.keystore")
+        storePassword "circuitRouteOptimization123"
+        keyAlias "circuitRouteOptimization"
+        keyPassword "circuitRouteOptimization123"
     }
 
     }

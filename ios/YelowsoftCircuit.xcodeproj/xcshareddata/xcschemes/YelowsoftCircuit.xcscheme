@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "YelowsoftCircuit.app"
-               BlueprintName = "YelowsoftCircuit"
-               ReferencedContainer = "container:YelowsoftCircuit.xcodeproj">
+               BuildableName = "circuitRouteOptimization.app"
+               BlueprintName = "circuitRouteOptimization"
+               ReferencedContainer = "container:circuitRouteOptimization.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "YelowsoftCircuitTests.xctest"
-               BlueprintName = "YelowsoftCircuitTests"
-               ReferencedContainer = "container:YelowsoftCircuit.xcodeproj">
+               BuildableName = "circuitRouteOptimizationTests.xctest"
+               BlueprintName = "circuitRouteOptimizationTests"
+               ReferencedContainer = "container:circuitRouteOptimization.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "YelowsoftCircuit.app"
-            BlueprintName = "YelowsoftCircuit"
-            ReferencedContainer = "container:YelowsoftCircuit.xcodeproj">
+            BuildableName = "circuitRouteOptimization.app"
+            BlueprintName = "circuitRouteOptimization"
+            ReferencedContainer = "container:circuitRouteOptimization.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "YelowsoftCircuit.app"
-            BlueprintName = "YelowsoftCircuit"
-            ReferencedContainer = "container:YelowsoftCircuit.xcodeproj">
+            BuildableName = "circuitRouteOptimization.app"
+            BlueprintName = "circuitRouteOptimization"
+            ReferencedContainer = "container:circuitRouteOptimization.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
